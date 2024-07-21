@@ -34,25 +34,25 @@ gptn your prompt here
 
 if you need/want to update the script. do the following, presuming you already created it, before. 
 
-# 1. 
+### 1. 
 
 Open the existing script in an editor:
 
 sudo nano /usr/local/bin/gptn
 
-# 2. 
+### 2. 
 
 edit the script. 
 
 Press CTRL+X, then Y, and then ENTER to save the file and exit the editor.
 
-# 3. 
+### 3. 
 
 it should already be executable, you can ensure it by running:
 
 sudo chmod +x /usr/local/bin/gptn
 
-# 4. 
+### 4. 
 
 Now, your script should be updated and ready to use with the new improvements. You can run it as usual with:
 
