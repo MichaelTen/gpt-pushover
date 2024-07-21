@@ -44,6 +44,8 @@ sudo nano /usr/local/bin/gptn
 
 edit the script. 
 
+press control+6 ... high light it all... then control+k to remove everything there.. .then replace the script. 
+
 Press CTRL+X, then Y, and then ENTER to save the file and exit the editor.
 
 ### 3. 
